@@ -1,0 +1,5 @@
+{
+  "http.port": 63138,
+  "db_name": "Employees",
+  "connection_string": "mongodb://127.0.0.1:27017"
+}

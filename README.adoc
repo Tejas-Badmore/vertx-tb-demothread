@@ -19,6 +19,8 @@ To package your application:
 To run your application:
 ```
 ./mvnw clean compile exec:java
+or
+./redeploy.sh
 ```
 
 == Help
